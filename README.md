@@ -1,6 +1,12 @@
 # Live Drowsy Detection
 
 A real-time drowsiness detection system using computer vision and facial landmark tracking. This project helps detect driver fatigue by monitoring eye closure and yawning through webcam input.
+<img width="1920" height="1200" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/058a6106-8d7c-451c-9da8-0e4766a35e0e" />
+<img width="1920" height="1200" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/41ec614f-2d43-4f97-9c9a-2912bb7c8ff5" />
+<img width="1920" height="1200" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/50bad958-2549-4b2a-a4f7-a181a57c7f23" />
+
+
+
 
 ## Features
 - Real-time video stream analysis
